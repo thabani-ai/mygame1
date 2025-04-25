@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guess The Number</string>
+    <string name="guess_number_instruction">Guess the number between 1 and 100</string>
+    <string name="enter_guess">Enter your guess</string>
+    <string name="submit_guess">Submit Guess</string>
+    <string name="attempts_default">Attempts: 0</string>
+    <string name="play_again">Play Again</string>
+</resources>
